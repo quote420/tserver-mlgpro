@@ -1,0 +1,9 @@
+C:\Users\The Game\Desktop\sdf\a\obj\x86\Debug\TerrariaServer.csprojResolveAssemblyReference.cache
+C:\Users\The Game\Desktop\sdf\a\bin\Debug\TerrariaServer.exe.manifest
+C:\Users\The Game\Desktop\sdf\a\bin\Debug\TerrariaServer.application
+C:\Users\The Game\Desktop\sdf\a\bin\Debug\TerrariaServer.exe
+C:\Users\The Game\Desktop\sdf\a\bin\Debug\TerrariaServer.pdb
+C:\Users\The Game\Desktop\sdf\a\obj\x86\Debug\TerrariaServer.exe.manifest
+C:\Users\The Game\Desktop\sdf\a\obj\x86\Debug\TerrariaServer.application
+C:\Users\The Game\Desktop\sdf\a\obj\x86\Debug\TerrariaServer.exe
+C:\Users\The Game\Desktop\sdf\a\obj\x86\Debug\TerrariaServer.pdb
